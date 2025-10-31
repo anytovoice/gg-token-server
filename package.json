@@ -1,5 +1,5 @@
 {
-    "name": "tts-token-server",
+    "name": "gg-token-server",
     "version": "1.0.0",
     "type": "module",
     "main": "server.js",
